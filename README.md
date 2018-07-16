@@ -12,4 +12,11 @@ show()
 System.out.println("Hello!!!");
 System.out.println("Bye!!!");
 }
+class B extends A
+{
+display()
+{
+System.out.println("Display");
+}
+}
 
