@@ -1,15 +1,9 @@
 # First
-class First{
-Public static void main(String args[])
+class C
 {
-A a=new A();
-a.show();
-}
-}
-class A{
-show()
+show_new()
 {
-System.out.println("Hello!!!");
-System.out.println("Bye!!!");
+System.out.println("New");
+}
 }
 
